@@ -1,2 +1,2 @@
 # Resume
-This is a sample resume
+This is a sample resume having a responsive webpage.
